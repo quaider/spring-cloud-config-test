@@ -1,6 +1,7 @@
 nginx:
   server:
     name: example.com
+    port: 9000
 ---
 spring:
   profiles: development
